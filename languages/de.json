@@ -225,7 +225,6 @@
 		  "logged_out_success": "Sie haben sich abgemeldet",
 		  "login": "Anmelden",
 		  "refresh": "Aktualisieren",
-		  "mfa": "MFA-Code eingeben",
 		  "my_account": "Mein Konto",
 		  "my_profile": "Mein Profil",
 		  "no_bio": "Keine Biografie, dieser Benutzer hat nichts zu sagen...",
@@ -358,8 +357,6 @@
 	"mfa": {
 		"mfa": "Mehr-Faktor-Authentifizierung",
 		"disclaimer": "WARNUNG: Wenn die Backup-Codes verloren gehen und Sie keinen Zugriff mehr auf das Gerät haben, das die MFA-Codes bereitstellt, können Sie Ihr Konto ohne umfangreiche Identitätsprüfung nicht wiederherstellen.",
-		"download_backup_codes": "Backup-Codes anzeigen",
-		"enter_mfa": "Mehr-Faktor-Authentifizierung",
 		"code_needed": "MFA-Code erforderlich",
 		"confirm": "Sind Sie sicher, dass Sie die MFA für Ihr Konto deaktivieren möchten? Dies ist nicht rückgängig zu machen und erfordert, dass Sie einen neuen MFA-Code einrichten.",
 		"test_code": "MFA-Code testen",

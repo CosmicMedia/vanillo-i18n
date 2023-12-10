@@ -165,7 +165,6 @@
 		"logged_out_success": "Je bent uitgelogd",
 		"login": "Log in",
 		"refresh": "herlaad",
-		"mfa": "Vul MFA code in",
 		"my_account": "Mijn Account",
 		"my_profile": "Mijn Profiel",
 		"no_bio": "Geen beschrijving, deze gebruiker heeft niets te zeggen...",
@@ -278,21 +277,23 @@
 		"edit_profile": "Wil je jouw profiel bewerken?",
 		"immersive_changed": "Immersive Border staat aan | Immersive Border staat uit",
 		"light_theme": "Licht",
-		"mfa": "Multi-Factor Authenticatie",
-		"mfa_code": "Multi-Factor Code Nodig",
-		"mfa_confirm": "Weet je zeker dat je MFA wilt uitschakelen voor je account? Dit kan niet ongedaan worden gemaakt en vereist dat je een nieuwe MFA code instelt.",
-		"mfa_disable_error": "Kon MFA niet uitschakelen",
-		"mfa_disabled": "Uitgeschakeld",
-		"mfa_disclaimer": "WAARSCHUWING: Als je jouw backup codes verliest en je niet meer toegang hebt tot het apparaat met de MFA codes kan je niet jouw account herstellen zonder uitgebreide identiteitsverificatie.",
-		"mfa_enable_error": "Kon MFA niet aanzetten",
-		"mfa_enabled": "Aangezet",
-		"mfa_test_code": "Test MFA Code",
 		"system": "Systeem",
 		"theme": "Thema",
 		"theme_saved": "Thema instelling opgeslaan voor deze browser",
 		"user_settings": "Gebruikersinstellingen",
 		"visit_profile": "Ga naar je profiel",
 		"account": "Account"
+	},
+	"mfa": {
+		"mfa": "Multi-Factor Authenticatie",
+		"disclaimer": "WAARSCHUWING: Als je jouw backup codes verliest en je niet meer toegang hebt tot het apparaat met de MFA codes kan je niet jouw account herstellen zonder uitgebreide identiteitsverificatie.",
+		"enter_mfa": "Vul MFA code in",
+		"code_needed": "Multi-Factor Code Nodig",
+		"confirm": "Weet je zeker dat je MFA wilt uitschakelen voor je account? Dit kan niet ongedaan worden gemaakt en vereist dat je een nieuwe MFA code instelt.",
+		"errors": {
+		  "could_not_disable": "Kon MFA niet uitschakelen",
+		  "could_not_enable": "Kon MFA niet aanzetten"
+		}
 	},
 	"status": {
 		"processing": "Aan het verwerken",
