@@ -237,7 +237,6 @@
     "logged_out_success": "Has cerrado sesión",
     "login": "Iniciar sesión",
     "refresh": "Actualizar",
-    "mfa": "Ingrese el código MFA",
     "my_account": "Mi cuenta",
     "my_profile": "Mi perfil",
     "no_bio": "Sin biografía, este usuario no tiene nada que decir...",
@@ -363,18 +362,6 @@
     "edit_profile": "¿Quieres editar tu perfil en su lugar?",
     "immersive_changed": "Borde inmersivo activado | Borde inmersivo desactivado",
     "light_theme": "Claro",
-    "mfa": "Autenticación de varios factores (MFA)",
-    "mfa_code": "Se necesita código MFA",
-    "mfa_confirm": "¿Estás seguro de que deseas desactivar MFA para tu cuenta? Esto es irreversible y requerirá que configures un nuevo código MFA.",
-    "mfa_disable_error": "No se pudo desactivar MFA",
-    "mfa_disabled": "Desactivado",
-    "mfa_disclaimer": "ADVERTENCIA: Si se pierden los códigos de respaldo y ya no tienes acceso al dispositivo que proporciona los códigos MFA, no podrás recuperar tu cuenta sin una extensa verificación de identidad.",
-    "mfa_enable_error": "No se pudo activar MFA",
-    "mfa_enabled": "Activado",
-    "mfa_test_code": "Probar código MFA",
-    "mfa_disable_prompt": "Desactivado MFA",
-    "mfa_setup_prompt": "Activado MFA",
-    "mfa_view_backup": "Ver códigos de respaldo",
     "system": "Sistema",
     "theme": "Tema",
     "theme_saved": "Configuración de tema guardada para este navegador",
@@ -383,6 +370,21 @@
     "account": "Cuenta",
     "push_notif": "Notificaciones push",
     "activate_push_notif": "Activar las notificaciones push"
+  },
+  "mfa": {
+	"mfa": "Autenticación de varios factores (MFA)",
+	"disclaimer": "ADVERTENCIA: Si se pierden los códigos de respaldo y ya no tienes acceso al dispositivo que proporciona los códigos MFA, no podrás recuperar tu cuenta sin una extensa verificación de identidad.",
+	"enter_mfa": "Ingrese el código MFA",
+	"code_needed": "Se necesita código MFA",
+	"confirm": "¿Estás seguro de que deseas desactivar MFA para tu cuenta? Esto es irreversible y requerirá que configures un nuevo código MFA.",
+	"test_code": "Probar código MFA",
+	"errors": {
+	  "could_not_disable": "No se pudo desactivar MFA",
+	  "could_not_enable": "No se pudo activar MFA"
+	},
+	"disable_prompt": "Desactivado MFA",
+	"setup_prompt": "Activado MFA",
+	"view_backup": "Ver códigos de respaldo"
   },
   "status": {
     "processing": "Procesando",

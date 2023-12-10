@@ -189,7 +189,6 @@
 		"log_out": "Déconnectez-vous",
 		"logged_out_success": "Vous avez été déconnecté",
 		"login": "Connectez-vous",
-		"mfa": "Entrer code de MFA",
 		"my_account": "Mon compte",
 		"my_profile": "Mon profil",
 		"no_bio": "Pas de biographie, cette utilisateur n'a rien à dire...",
@@ -302,21 +301,24 @@
 		"light_theme": "Blanc",
 		"edit_profile": "Voulez-vous editer votre profil ?",
 		"immersive_changed": "Immersive Border turned on | Immersive border turned off",
-		"mfa": "Authentification Multi-Factor",
-		"mfa_code": "Il faut le code multi-factor",
-		"mfa_confirm": "Êtes-vous sûr de vouloir désactiver le MFA sur votre compte?",
-		"mfa_disable_error": "Impossible de désactiver le MFA",
-		"mfa_disabled": "Désactivé",
-		"mfa_disclaimer": "AVERTISSEMENT : Si les codes de sauvegarde sont perdus et que vous n'avez plus accès à l'appareil qui fournit les codes MFA, vous ne pouvez pas récupérer votre compte sans une vérification d'identité approfondie.",
-		"mfa_enable_error": "Impossible d'activer le MFA",
-		"mfa_enabled": "Activé",
-		"mfa_test_code": "Essais code MFA",
 		"system": "Système",
 		"theme": "Thème",
 		"theme_saved": "Paramètre de thème enregistré pour ce navigateur",
 		"user_settings": "Paramètres de compte",
 		"visit_profile": "Allez à votre profil",
 		"account": "Compte"
+	},
+	"mfa": {
+		"mfa": "Authentification Multi-Factor",
+		"disclaimer": "AVERTISSEMENT: Si les codes de sauvegarde sont perdus et que vous n'avez plus accès à l'appareil qui fournit les codes MFA, vous ne pouvez pas récupérer votre compte sans une vérification d'identité approfondie.",
+		"enter_mfa": "Entrer code de MFA",
+		"code_needed": "Il faut le code multi-factor",
+		"confirm": "Êtes-vous sûr de vouloir désactiver le MFA sur votre compte?",
+		"test_code": "Essais code MFA",
+		"errors": {
+		  "could_not_disable": "Impossible de désactiver le MFA",
+		  "could_not_enable": "Impossible d'activer le MFA"
+		}
 	},
 	"status": {
 		"processing": "Traitement",
