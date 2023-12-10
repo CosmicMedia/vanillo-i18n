@@ -1,0 +1,9 @@
+{
+	"i18n-ally.localesPaths": [
+		"languages"
+	],
+	"i18n-ally.keystyle": "nested",
+	"i18n-ally.enabledFrameworks": [
+        "vue"
+    ]
+}
