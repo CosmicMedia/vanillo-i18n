@@ -93,10 +93,10 @@
 	},
 	"comments": {
 		"modal": {
-		  "delete_comment_title": "Tem certeza de que deseja excluir este comentário?"
+			"delete_comment_title": "Tem certeza de que deseja excluir este comentário?"
 		},
 		"errors": {
-		  "blank": "Não é possível publicar um comentário em branco"
+			"blank": "Não é possível publicar um comentário em branco"
 		},
 		"none": "Não há comentários neste vídeo.",
 		"pinned_by": "Fixado por",
@@ -105,7 +105,7 @@
 		"show_more_replies": "Mostrar mais respostas",
 		"show_all_replies": "Mostrar todas as respostas",
 		"pin": "Fixar"
-	  },
+	},
 	"creator_portal": {
 		"creator_news": "Notícias do Criador",
 		"creator_news_soon": "Notícias do Criador em breve!",
@@ -363,8 +363,8 @@
 		"confirm": "Você tem certeza absoluta de que deseja desativar o MFA para sua conta? Isso é irreversível e exigirá que você configure um novo código MFA.",
 		"test_code": "Testar código MFA",
 		"errors": {
-		  "could_not_disable": "Não foi possível desativar o MFA",
-		  "could_not_enable": "Não foi possível ativar o MFA"
+			"could_not_disable": "Não foi possível desativar o MFA",
+			"could_not_enable": "Não foi possível ativar o MFA"
 		},
 		"disable_prompt": "Desativar MFA",
 		"setup_prompt": "Configurar MFA",

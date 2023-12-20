@@ -5,5 +5,7 @@
 	"i18n-ally.keystyle": "nested",
 	"i18n-ally.enabledFrameworks": [
         "vue"
-    ]
+    ],
+	"i18n-ally.indent": 4,
+	"i18n-ally.tabStyle": "tab"
 }

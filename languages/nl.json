@@ -291,8 +291,8 @@
 		"code_needed": "Multi-Factor Code Nodig",
 		"confirm": "Weet je zeker dat je MFA wilt uitschakelen voor je account? Dit kan niet ongedaan worden gemaakt en vereist dat je een nieuwe MFA code instelt.",
 		"errors": {
-		  "could_not_disable": "Kon MFA niet uitschakelen",
-		  "could_not_enable": "Kon MFA niet aanzetten"
+			"could_not_disable": "Kon MFA niet uitschakelen",
+			"could_not_enable": "Kon MFA niet aanzetten"
 		}
 	},
 	"status": {
