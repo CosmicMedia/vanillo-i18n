@@ -9,7 +9,7 @@
 		"login_failed": "Nem tudtunk bejelntkeztetni: Ellenőrizd az email címed és jelszavad.",
 		"register_failed": "Nem tudtuk regisztrálni a fiókod",
 		"registered_successfully": "A fiókod elkészült",
-		"dob_why": "A születési dátumodra az olyan törvények megfelelése miatt van szükségünk, mint a COPPA az Egyesült Államokban, vagy a GDPR az Európai Unióban. Ezek, és más országok törvényei miatt meg kell erősitenünk a korodat."
+		"dob_why": "A születési dátumodra az olyan törvények megfelelése miatt van szükségünk, mint a COPPA az Egyesült Államokban, vagy a GDPR az Európai Unióban. Ezek, és más országok törvényei miatt meg kell erősitenünk a korodat.",
 		"subscription": {
 			"user_already_gold": "Már előfizettél a Gold-ra, nem kell még egyszer!",
 			"user_already_pro": "Már előfizettél a Pro-ra, nem kell még egyszer!",
