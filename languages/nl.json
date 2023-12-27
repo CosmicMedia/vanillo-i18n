@@ -336,7 +336,10 @@
 		"theme_saved": "Thema instelling opgeslaan voor deze browser",
 		"user_settings": "Gebruikersinstellingen",
 		"visit_profile": "Ga naar je profiel",
-		"account": "Account"
+		"account": "Account",
+		"activate_push_notif": "Pushmeldingen Activeren",
+		"billing": "Facturering",
+		"push_notif": "Pushmeldingen"
 	},
 	"mfa": {
 		"mfa": "Multi-Factor Authenticatie",
@@ -366,7 +369,8 @@
 		"before_leave": "Weet je zeker dat je de uploadpagina wilt verlaten? Dit zal elke video die op dit moment aan het verwerken is privé maken. Je kan dit veranderen in het creator portal.",
 		"file_duration_max": "Deze video is te lang.",
 		"ice_cream_machine_broken": "Verwerking voor upload mislukt.",
-		"error_processing": "Er was een fout met het verwerken van deze video"
+		"error_processing": "Er was een fout met het verwerken van deze video",
+		"rate_limit_reached": "Je hebt je 24-uur videolimiet bereikt. Probeer het morgen opnieuw."
 	},
 	"subscribe": {
 		"create_pro": "Maak meer met Vanillo Pro",
@@ -392,11 +396,13 @@
 		"learn_pro": "Kom meer te weten over Pro",
 		"subscribe_desc": "Krijg een betere ervaring met Vanillo Gold en Pro.",
 		"subscribe_title": "Krijg de hele emmer, niet alleen een schepje.",
-		"watch_gold": "Kijk meer met Vanillo Gold"
+		"watch_gold": "Kijk meer met Vanillo Gold",
+		"cta": "Abonneer Nu"
 	},
 	"user": {
 		"no_playlists": "Dit profiel heeft nog geen afspeellijsten gemaakt.",
-		"no_uploads": "Dit profiel heeft nog niks geüpload."
+		"no_uploads": "Dit profiel heeft nog niks geüpload.",
+		"fetch_fail": "Kan gebruiker niet vernieuwen"
 	},
 	"video": {
 		"confirm_deletion": "Weet je zeker dat je deze video wilt verwijderen?",
@@ -405,7 +411,16 @@
 		"player_no_quality": "Deze video is alleen audio",
 		"player_nerds": "Playback Info",
 		"loop": "Loop",
-		"share": "Deel deze video"
+		"share": "Deel deze video",
+		"choose_lang": "Kies een taal",
+		"is_published_at": "Deze video was gepubliceerd op",
+		"jump_to_comments": "Ga naar reacties",
+		"processing_desc": "Kom later terug om deze video te bekijken.",
+		"processing_title": "Deze video wordt nog verwerkt",
+		"still_processing": "Deze video wordt nog verwerkt. Bepaalde kwaliteitsniveaus zijn mogelijk nog niet beschikbaar.",
+		"thumbnail_saved": "Je nieuwe thumbnail is opgeslagen",
+		"thumbnails": "Thumbnails",
+		"will_be_published_at": "Deze video zal gepubliceerd worden op"
 	},
 	"email_confirmation": {
 		"message": "Bedankt voor het bevestigen van je email!"
@@ -451,6 +466,49 @@
 		"requirements": "Vereisten om te monetariseren",
 		"subtitle": "Word betaald om video's te uploaden!",
 		"title": "Vanillo Monetisatie Programma",
-		"view_dashboard": "Bekijk monetisatie dashboard"
+		"view_dashboard": "Bekijk monetisatie dashboard",
+		"why": "Waarom bij ons monetiseren?"
+	},
+	"notifications": {
+		"no_notification_desc": "Nieuwe meldingen zullen hier verschijnen.",
+		"no_notification_title": "Je hebt al je meldingen gelezen!",
+		"notification": "Melding",
+		"notifications": "Meldingen",
+		"type": {
+			"creator_pin": "{name} heeft je reactie vastgemaakt!",
+			"creator_upvote": "{name} heeft je comment opgestemd!",
+			"live": "{name} is nu LIVE!",
+			"new_comment": "{name} heeft een reactie achtergelaten op je video",
+			"new_follower": "{name} heeft je gevolgd!",
+			"new_post": "{name} heeft een nieuwe post gemaakt",
+			"new_reply": "{name} heeft gereageerd op je reactie",
+			"new_video": "{name} heeft een nieuwe video geüpload",
+			"new_video_comment": "{name} heeft op je video gereageerd"
+		}
+	},
+	"profiles": {
+		"add": "Gedelegeerde Toevoegen",
+		"delegates": "Beheer Gedelegeerden",
+		"edit": "Gedelegeerde Bewerken",
+		"email": "Email van gebruiker",
+		"remove": "Verwijder Gedelegeerde",
+		"role": "Rol van gedelegeerde",
+		"roles": {
+			"co_owner": "Profiel Rol: Mede-eigenaar",
+			"community_manager": "Profiel Rol: Community Manager",
+			"member": "Profiel Rol: Lid",
+			"owner": "Profile Role: Eigenaar"
+		}
+	},
+	"report": {
+		"content_report": "Rapporteer deze content",
+		"reason": "Reden voor rapportage",
+		"warning": "Misbruik van dit formulier kan leiden tot actie tegen je account."
+	},
+	"takedown": {
+		"takedown_notice_copyright": "Deze video is niet langer beschikbaar vanwege een copyrightclaim.",
+		"takedown_notice_generic": "Deze video is verwijderd van Vanillo vanwege een copyrightclaim of schending van de Servicevoorwaarden.",
+		"takedown_notice_title": "Deze video is verwijderd",
+		"takedown_notice_tos": "Deze video is niet langer beschikbaar wegens het schenden van de Servicevoorwaarden en/of de Communityrichtlijnen van Vanillo."
 	}
 }
