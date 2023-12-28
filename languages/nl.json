@@ -15,8 +15,13 @@
 				"cancelled_or_expired": "Geannuleerd of Verlopen",
 				"getting": "Status aan het ontvangen",
 				"paid": "Betaald"
-			}
-		}
+			},
+			"subscription": "Abonnement"
+		},
+		"dob_why": "We hebben je geboortedatum nodig om te voldoen aan toepasselijke wetgeving, zoals COPPA in de Verenigde Staten en GDPR in de Europese Unie. Deze wetten en de wetgeving van andere landen vereisen dat we je leeftijd bevestigen.",
+		"login_failed": "We kunnen je niet inloggen: controleer je email en wachtwoord",
+		"register_failed": "We kunnen je account niet aanmaken",
+		"registered_successfully": "Je account is aangemaakt"
 	},
 	"login": {
 		"yes_account": "Heb je een account?",
@@ -65,7 +70,17 @@
 		"modal": {
 			"delete_comment_title": "Weet je zeker dat je deze reactie wilt verwijderen?"
 		},
-		"none": "Er zijn geen reacties op deze video."
+		"none": "Er zijn geen reacties op deze video.",
+		"edited": "bewerkt",
+		"errors": {
+			"blank": "Kan geen lege reactie plaatsen"
+		},
+		"linked": "Gekoppeld commentaar",
+		"pin": "Vastmaken",
+		"pinned_by": "Vastgemaakt door",
+		"show_all_replies": "Alle reacties tonen",
+		"show_more_replies": "Meer reacties tonen",
+		"upvoted_by": "Opgestemd door"
 	},
 	"creator_portal": {
 		"creator_news": "Creator Nieuws",
@@ -73,7 +88,8 @@
 		"creator_news_wip_blurb": "Op dit moment zitten we hier nog aan te werken! Als het eenmaal beschikbaar is, zul je hier een korte beschrijving zien voor het nieuwste artikel.",
 		"like_dislike_ratio": "Like/Dislike Verhouding",
 		"rating": "Beoordeling",
-		"views": "Weergaven"
+		"views": "Weergaven",
+		"no_videos_yet": "Je hebt nog geen videos."
 	},
 	"general": {
 		"cancel": "Annuleer",
@@ -105,7 +121,23 @@
 		"community_guidelines": "Community Richtlijnen",
 		"always": "Altijd",
 		"never": "Nooit",
-		"auto": "Automatisch"
+		"auto": "Automatisch",
+		"apply": "Aanvragen",
+		"disable": "Uitschakelen",
+		"disabled": "Uitgeschakeld",
+		"dmca": "DMCA Takedown",
+		"enable": "Inschakelen",
+		"enabled": "Uitschakelen",
+		"errors": {
+			"must_log_in": "Log alsjeblieft eerst in.",
+			"unauthorized": "Ongeautoriseerd"
+		},
+		"language": "Taal",
+		"learn_more": "Meer informatie",
+		"monetized": "Gemonetariseerd",
+		"partnered": "Gepartnerd",
+		"playback_speed": "Playback Snelheid",
+		"submit": "Verzenden"
 	},
 	"history": {
 		"clear": "Wis Kijkgeschiedenis",
@@ -233,7 +265,29 @@
 		"write_comment": "Schrijf een reactie...",
 		"write_reply": "Schrijf een reactie...",
 		"your_account": "Je Account",
-		"beta_notice": "Vanillo is op dit moment in vroege beta. Sommige dingen kunnen (en zullen waarschijnlijk) verkeerd gaan. Als je een bug vindt, laat het ons weten op onze ondersteuningswebsite:"
+		"beta_notice": "Vanillo is op dit moment in vroege beta. Sommige dingen kunnen (en zullen waarschijnlijk) verkeerd gaan. Als je een bug vindt, laat het ons weten op onze ondersteuningswebsite:",
+		"all": "ALle",
+		"comment_filter": "Reactie Filter",
+		"comment_review": "Beoordeel Reacties",
+		"comment_review_end": "Stop met reactie beoordeling",
+		"comment_review_none": "Geen reacties hebben beoordeling nodig",
+		"comments_disabled": "Reacties zijn uitgeschakeld",
+		"content_report": "Rapporteer deze inhoud",
+		"go_back": "Teruggaan",
+		"none": "Geen",
+		"nsfw": "18+",
+		"out": "Je verlaat Vanillo",
+		"out_confirm": "Weet je zeker dat je Vanillo wilt verlaten?",
+		"proceed": "Doorgaan",
+		"redirect": "Klik hier als je niet omgeleid bent",
+		"report_warning": "misbruik van dit formulier zal leiden naar actie tegen je account",
+		"viewers": "{count} kijkers | {count} kijker | {count} kijkers",
+		"welcome_birth_date": "Geboortedatum",
+		"welcome_create_account": "Maak Account",
+		"welcome_create_explore": "Verkennen",
+		"welcome_create_profile": "Maak een Profiel",
+		"welcome_enter_info": "Voer je gegevens in om je account aan te maken",
+		"welcome_title_muted": "Welkom bij Vanillo."
 	},
 	"playlists": {
 		"creator": "Afspeellijst Maker",
@@ -282,7 +336,10 @@
 		"theme_saved": "Thema instelling opgeslaan voor deze browser",
 		"user_settings": "Gebruikersinstellingen",
 		"visit_profile": "Ga naar je profiel",
-		"account": "Account"
+		"account": "Account",
+		"activate_push_notif": "Pushmeldingen Activeren",
+		"billing": "Facturering",
+		"push_notif": "Pushmeldingen"
 	},
 	"mfa": {
 		"mfa": "Multi-Factor Authenticatie",
@@ -293,7 +350,12 @@
 		"errors": {
 			"could_not_disable": "Kon MFA niet uitschakelen",
 			"could_not_enable": "Kon MFA niet aanzetten"
-		}
+		},
+		"disable_prompt": "MFA Uitschakelen",
+		"download_backup_codes": "Download Herstelcodes",
+		"setup_prompt": "MFA Instellen",
+		"test_code": "Test MFA-code",
+		"view_backup": "Bekijk herstelcodes"
 	},
 	"status": {
 		"processing": "Aan het verwerken",
@@ -307,7 +369,8 @@
 		"before_leave": "Weet je zeker dat je de uploadpagina wilt verlaten? Dit zal elke video die op dit moment aan het verwerken is privé maken. Je kan dit veranderen in het creator portal.",
 		"file_duration_max": "Deze video is te lang.",
 		"ice_cream_machine_broken": "Verwerking voor upload mislukt.",
-		"error_processing": "Er was een fout met het verwerken van deze video"
+		"error_processing": "Er was een fout met het verwerken van deze video",
+		"rate_limit_reached": "Je hebt je 24-uur videolimiet bereikt. Probeer het morgen opnieuw."
 	},
 	"subscribe": {
 		"create_pro": "Maak meer met Vanillo Pro",
@@ -333,11 +396,13 @@
 		"learn_pro": "Kom meer te weten over Pro",
 		"subscribe_desc": "Krijg een betere ervaring met Vanillo Gold en Pro.",
 		"subscribe_title": "Krijg de hele emmer, niet alleen een schepje.",
-		"watch_gold": "Kijk meer met Vanillo Gold"
+		"watch_gold": "Kijk meer met Vanillo Gold",
+		"cta": "Abonneer Nu"
 	},
 	"user": {
 		"no_playlists": "Dit profiel heeft nog geen afspeellijsten gemaakt.",
-		"no_uploads": "Dit profiel heeft nog niks geüpload."
+		"no_uploads": "Dit profiel heeft nog niks geüpload.",
+		"fetch_fail": "Kan gebruiker niet vernieuwen"
 	},
 	"video": {
 		"confirm_deletion": "Weet je zeker dat je deze video wilt verwijderen?",
@@ -346,9 +411,104 @@
 		"player_no_quality": "Deze video is alleen audio",
 		"player_nerds": "Playback Info",
 		"loop": "Loop",
-		"share": "Deel deze video"
+		"share": "Deel deze video",
+		"choose_lang": "Kies een taal",
+		"is_published_at": "Deze video was gepubliceerd op",
+		"jump_to_comments": "Ga naar reacties",
+		"processing_desc": "Kom later terug om deze video te bekijken.",
+		"processing_title": "Deze video wordt nog verwerkt",
+		"still_processing": "Deze video wordt nog verwerkt. Bepaalde kwaliteitsniveaus zijn mogelijk nog niet beschikbaar.",
+		"thumbnail_saved": "Je nieuwe thumbnail is opgeslagen",
+		"thumbnails": "Thumbnails",
+		"will_be_published_at": "Deze video zal gepubliceerd worden op"
 	},
 	"email_confirmation": {
 		"message": "Bedankt voor het bevestigen van je email!"
+	},
+	"feed": {
+		"empty_feed_details": "Verken de homepagina een beetje, en volg dan creators die je leuk vindt en hun nieuwste video's en posts zullen hier worden getoond!",
+		"empty_feed_title": "We hebben hier nog niks om te tonen..."
+	},
+	"live": {
+		"beginning": "Dit is het begin van de live chat",
+		"cooldown": "Afkoeling van 5 seconden is ingeschakeld voor berichten",
+		"live_chat": "Live chat",
+		"open_chat": "Live Chat Uitvouwen",
+		"viewers": "kijker | kijkers",
+		"write_message": "Schrijf een bericht..."
+	},
+	"monetize": {
+		"apply_partner": "Meld je hier aan om Vanillo Partner te worden!",
+		"dashboard_short": "Ga naar dashboard",
+		"eligible": "Gefeliciteerd, je voldoet aan de vereisten! Meld je hierboven aan.",
+		"enabled": "Je bent gemonetariseerd!",
+		"get_started": "Aan de slag",
+		"marketing": {
+			"ad_share_desc": "We delen een deel van de advertentie-inkomsten met jou en geven je een deel van het abonnementsgeld van Vanillo Gold-gebruikers, afhankelijk van hoeveel ze jouw content bekijken.",
+			"ad_share_title": "Krijg wat je verdient.",
+			"coming_soon": "Binnenkort beschikbaar",
+			"live_tipping_desc": "Fans in ondersteunde landen kunnen je een donatie geven terwijl je streamt, met Live Donatie. Hun chatbericht wordt gemarkeerd zodat je ze sneller opmerkt.",
+			"live_tipping_title": "Word betaald om te livestreamen met Live Donaties.",
+			"membership_desc": "Stel een lidmaatschap systeem in via Vanillo. Je grootste fans kunnen lid worden van je eigen lidmaatschap niveaus en krijgen extraatjes van je, zoals video's die alleen leden kunnen zien.",
+			"membership_title": "Geef terug aan je fans.",
+			"tipping_desc": "Laat je grootste fans direct aan je doneren via je video's op Vanillo. Het is handig voor jou en je fans, en we vragen slechts een kleine vergoeding.",
+			"tipping_title": "Krijg donaties direct van je fans."
+		},
+		"nav_title": "Monetisatie",
+		"not_eligible": "Sorry, je bent (nog) geen Vanillo Partner.",
+		"not_owner": "Je moet de eigenaar van dit profiel zijn om monetisatie in te stellen.",
+		"requirement_list": {
+			"country_desc": "Op dit moment zijn we monetisatie aan het beta-testen in de Verenigde Staten, het Verenigd Koninkrijk, Australië, Canada en de Europese Unie.",
+			"country_title": "Wees in een ondersteund land",
+			"partner_desc": "Alleen Vanillo Partners kunnen op dit moment gemonetariseerd zijn.",
+			"partner_title": "Word een Vanillo Partner"
+		},
+		"requirements": "Vereisten om te monetariseren",
+		"subtitle": "Word betaald om video's te uploaden!",
+		"title": "Vanillo Monetisatie Programma",
+		"view_dashboard": "Bekijk monetisatie dashboard",
+		"why": "Waarom bij ons monetiseren?"
+	},
+	"notifications": {
+		"no_notification_desc": "Nieuwe meldingen zullen hier verschijnen.",
+		"no_notification_title": "Je hebt al je meldingen gelezen!",
+		"notification": "Melding",
+		"notifications": "Meldingen",
+		"type": {
+			"creator_pin": "{name} heeft je reactie vastgemaakt!",
+			"creator_upvote": "{name} heeft je comment opgestemd!",
+			"live": "{name} is nu LIVE!",
+			"new_comment": "{name} heeft een reactie achtergelaten op je video",
+			"new_follower": "{name} heeft je gevolgd!",
+			"new_post": "{name} heeft een nieuwe post gemaakt",
+			"new_reply": "{name} heeft gereageerd op je reactie",
+			"new_video": "{name} heeft een nieuwe video geüpload",
+			"new_video_comment": "{name} heeft op je video gereageerd"
+		}
+	},
+	"profiles": {
+		"add": "Gedelegeerde Toevoegen",
+		"delegates": "Beheer Gedelegeerden",
+		"edit": "Gedelegeerde Bewerken",
+		"email": "Email van gebruiker",
+		"remove": "Verwijder Gedelegeerde",
+		"role": "Rol van gedelegeerde",
+		"roles": {
+			"co_owner": "Profiel Rol: Mede-eigenaar",
+			"community_manager": "Profiel Rol: Community Manager",
+			"member": "Profiel Rol: Lid",
+			"owner": "Profile Role: Eigenaar"
+		}
+	},
+	"report": {
+		"content_report": "Rapporteer deze content",
+		"reason": "Reden voor rapportage",
+		"warning": "Misbruik van dit formulier kan leiden tot actie tegen je account."
+	},
+	"takedown": {
+		"takedown_notice_copyright": "Deze video is niet langer beschikbaar vanwege een copyrightclaim.",
+		"takedown_notice_generic": "Deze video is verwijderd van Vanillo vanwege een copyrightclaim of schending van de Servicevoorwaarden.",
+		"takedown_notice_title": "Deze video is verwijderd",
+		"takedown_notice_tos": "Deze video is niet langer beschikbaar wegens het schenden van de Servicevoorwaarden en/of de Communityrichtlijnen van Vanillo."
 	}
 }
