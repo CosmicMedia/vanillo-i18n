@@ -170,8 +170,6 @@
 		"vanillo_license": "Licença Padrão do Vanillo"
 	},
 	"message": {
-		"content_report": "Reportar este conteúdo",
-		"report_warning": "O uso indevido deste formulário resultará em ações contra a sua conta",
 		"404_text": "Tente usar a barra de pesquisa no topo da página. Se ainda não encontrar o que estava procurando, esta página pode ter sido movida ou excluída.",
 		"404_title": "Não conseguimos encontrar essa página",
 		"about": "Sobre",
@@ -210,7 +208,6 @@
 		"follow_someone": "Siga alguém e eles aparecerão aqui.",
 		"followers": "Seguidores",
 		"following": "Seguindo",
-		"hard_at_work": "Estamos trabalhando muito para trazer isso para você. Você pode ver algumas mudanças aqui ao longo do tempo!",
 		"help": "Ajuda",
 		"history": "Histórico",
 		"home": "Início",
@@ -224,7 +221,6 @@
 		"log_out": "Sair",
 		"logged_out_success": "Você saiu",
 		"login": "Login",
-		"refresh": "atualizar",
 		"my_account": "Minha Conta",
 		"my_profile": "Meu Perfil",
 		"no_bio": "Sem biografia, este usuário não tem nada a dizer...",
@@ -243,9 +239,7 @@
 		"playlists": "Playlists",
 		"playlist": "Playlist",
 		"playlist_add": "Adicionar à playlist",
-		"playlists_soon": "Playlists em breve",
 		"posts": "Postagens",
-		"posts_soon": "Postagens em breve",
 		"privacy_policy": "Política de Privacidade",
 		"pro_create_upsell": "Crie mais com o Pro",
 		"pro_encoding_upsell": "Desbloqueie a codificação com o Pro",
@@ -280,7 +274,6 @@
 		"upload_banner_prompt": "Carregar um banner",
 		"upload_banner_wait": "Salvando seu banner, por favor aguarde...",
 		"uploads": "Uploads",
-		"username": "Nome de usuário",
 		"videos": "Vídeo | Vídeos",
 		"views": "{count} visualizações | {count} visualização | {count} visualizações",
 		"viewers": "{count} espectadores | {count} espectador | {count} espectadores",
@@ -434,7 +427,6 @@
 		"processing_title": "Este vídeo ainda está sendo processado",
 		"processing_desc": "Volte mais tarde para assistir a este vídeo.",
 		"still_processing": "Este vídeo ainda está em processamento. Algumas qualidades podem não estar disponíveis ainda."
-		
 	},
 	"report": {
 		"content_report": "Denunciar este conteúdo",
