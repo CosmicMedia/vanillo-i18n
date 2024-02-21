@@ -47,7 +47,7 @@
 	},
 	"feed": {
 		"empty_feed_title": "Kol kas neturime ką parodyti...",
-		"empty_feed_details": "Eikite ir tyrinėkite pagrindinį puslapį, tada sekite patinkančius kūrėjus ir čia bus rodomi jų naujausi vaizdo įrašai ir pranešimai!"
+		"empty_feed_details": "Eikite ir naršykite pagrindinį puslapį, tada sekite patinkančius kūrėjus ir čia bus rodomi jų naujausi vaizdo įrašai ir pranešimai!"
 	},
 	"login": {
 		"yes_account": "Jau turite paskyrą?",
@@ -193,7 +193,7 @@
 		"save": "Išsaugoti",
 		"shuffle": "Išmaišyti",
 		"statistics": "Statistika",
-		"upgrade": "Atnaujinti",
+		"upgrade": "Pasigerink",
 		"verified": "Patvirtinta",
 		"partnered": "Partneris",
 		"monetized": "Monetizuota",
@@ -230,7 +230,7 @@
 		"creative_commons": "\"Creative Commons\" Licensija",
 		"license": "Licencija",
 		"public_domain": "Viešoji nuosavybė",
-		"vanillo_license": "\"Vanillo\" standartinė licencija"
+		"vanillo_license": "Vanillo standartinė licencija"
 	},
 	"message": {
 		"404_text": "Pabandykite pasinaudoti puslapio viršuje esančia paieškos juosta. Jei vis dar nerandate to, ko ieškojote, šis puslapis galėjo būti perkeltas arba ištrintas..",
@@ -271,7 +271,7 @@
 		"email": "El. paštas",
 		"error_text": "Mūsų kodas susidūrė su klaida, kurios nesitikėjo. Surinkome klaidų informaciją apie šį įvykį. Nedvejodami perkraukite puslapį iš naujo bet kuriuo metu. Jei ir toliau matysite šią klaidą, kreipkitės į pagalbos komanda ir nurodykite pirmiau pateiktą pranešimą",
 		"error_title": "Sugedo ledų gaminimo aparatas.",
-		"feed": "Feed",
+		"feed": "Mano srautas",
 		"follow": "Sekti",
 		"follow_someone": "Stebėkite ką nors ir jis pasirodys čia.",
 		"followers": "Sekėjai",
@@ -310,7 +310,7 @@
 		"posts": "Pranešimai",
 		"privacy_policy": "Privatumo politika",
 		"pro_create_upsell": "Sukurkite daugiau su Pro",
-		"pro_encoding_upsell": "Atrakinti kodavimą naudojant Pro",
+		"pro_encoding_upsell": "Atrakink kodavimą naudojant Pro",
 		"profile_name": "Profilio vardas",
 		"profiles": "Profiliai",
 		"recommended": "Rekomenduojama",
@@ -348,7 +348,7 @@
 		"watch": "Žiūrėti",
 		"welcome_text": "Sukurkite savo profilį ir pradėkite tyrinėti.",
 		"welcome_title": "Sveiki atvykę į Vanillo!",
-		"welcome_title_muted": "Sveiki atvykę į Viddla.",
+		"welcome_title_muted": "Sveiki atvykę į Vanillo.",
 		"welcome_enter_info": "Įveskite savo informaciją, kad sukurtumėte paskyrą",
 		"welcome_birth_date": "Gimimo data",
 		"welcome_create_account": "Sukurti paskyrą",
@@ -361,7 +361,7 @@
 		"write_comment": "Parašykite komentarą...",
 		"write_reply": "Parašykite atsakymą...",
 		"your_account": "Jūsų paskyra",
-		"beta_notice": "Pastaba: Šiuo metu Viddla yra ankstyvojoje beta versijoje. Viskas gali būti (ir ko gero bus) ne taip! Apie visas klaidas būtinai praneškite mūsų pagalbos portale:"
+		"beta_notice": "Pastaba: Šiuo metu Vanillo yra ankstyvojoje beta versijoje. Viskas gali būti (ir ko gero bus) ne taip! Apie visas klaidas būtinai praneškite mūsų pagalbos portale:"
 	},
 	"playlists": {
 		"creator": "Grojaraščių kūrėjas",
@@ -376,7 +376,7 @@
 		"no_desc": "Šis grojaraštis neturi aprašymo.",
 		"add_video": "Pridėti vaizdo įrašą",
 		"add_video_to_playlist": "Pridėti vaizdo įrašą į grojaraštį",
-		"add_video_desc": "Įklijuokite \"Vanillo\" vaizdo įrašo URL, kad įtrauktumėte jį į šį grojaraštį.",
+		"add_video_desc": "Įklijuokite Vanillo vaizdo įrašo URL, kad įtrauktumėte jį į šį grojaraštį.",
 		"video_url": "Vaizdo įrašo URL",
 		"no_video_url_error": "Vaizdo įrašo URL nepateiktas.",
 		"invalid_video_url": "Pateiktas netinkamas vaizdo įrašo URL.",
@@ -394,7 +394,7 @@
 		"privacy": "Privatumas",
 		"private": "Privatus",
 		"public": "Vieša",
-		"unlisted": "Paslėpta (Neįtrauktas į sąrašą)"
+		"unlisted": "Paslėpta"
 	},
 	"settings": {
 		"appearance": "Išvaizda",
@@ -457,10 +457,10 @@
 			"flac_title": "Puikus, aukštos kokybės garsas",
 			"live_desc": "Gauti prieigą prie tiesioginės transliacijos, kai ji prieinama",
 			"live_title": "Pradėkite transliuoti",
-			"look_desc": "Pasirūpinkite, kad \"Vanillo\" atrodytų taip, kaip norite",
+			"look_desc": "Pasirūpinkite, kad Vanillo atrodytų taip, kaip norite",
 			"look_title": "Pritaikykite savo išvaizdą",
 			"orig_desc": "Prenumeruodami gaunate prieigą prie mūsų originalaus turinio kolekcijos",
-			"orig_title": "Gaukite prieigą prie \"Vanillo Originals\"",
+			"orig_title": "Gaukite prieigą prie Vanillo Originals",
 			"prior_desc": "Prisijunkite anksčiau nei kiti, kad jūsų įkėlimai būtų apdoroti",
 			"prior_title": "Gaukite pirmenybę savo įkėlimams",
 			"support_desc": "Prenumerata padeda išlaikyti tokią mažą svetainę kaip mūsų",
@@ -468,7 +468,7 @@
 		},
 		"learn_gold": "Spustelėkite ir su sužinokite daugiau apie Gold",
 		"learn_pro": "Spustelėkite ir su sužinokite daugiau apie Pro",
-		"subscribe_desc": "Gaukite dar geresnę \"Vanillo\" patirtį su \"Vanillo Gold\" ir \"Pro\".",
+		"subscribe_desc": "Gaukite dar geresnę Vanillo patirtį su Vanillo Gold ir Pro.",
 		"subscribe_title": "Paimkite visą kibirą, o ne tik samtelį.",
 		"watch_gold": "Žiūrėkite daugiau su Vanillo Gold",
 		"cta": "Užsiprenumeruokite dabar"
