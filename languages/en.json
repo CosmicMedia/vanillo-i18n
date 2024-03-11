@@ -165,7 +165,7 @@
 			"new_video_comment": "{name} commented on your video",
 			"new_video": "{name} uploaded a new video",
 			"new_post": "{name} made a new post",
-			"new_comment": "{name} commented on your video",
+			"new_post_comment": "{name} commented on your post",
 			"new_reply": "{name} replied to your comment",
 			"creator_upvote": "{name} upvoted your comment!",
 			"creator_pin": "{name} pinned your comment!",
